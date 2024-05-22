@@ -17,3 +17,18 @@ body{
     min-height: 100vh;
     background-color: #6f2dfd;   
 }
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chat-bot{
+    width: 400px;
+    height: 450px;
+    background-color: #fff;
+    overflow: hidden;
+    border-radius: 10px;
+    position: relative;
+}

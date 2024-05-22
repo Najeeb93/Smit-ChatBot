@@ -60,7 +60,7 @@ body{
 .chats{
     width: 100%;
     padding: 0 15px;
-    color: #fff;
+    color: black;
     position: relative;
     font-size: 0.9em;
 }
@@ -68,7 +68,7 @@ body{
 .client-chat{
     width: 60%;
     word-wrap: break-word;
-    background-color: red;
+    background-color: #F3D7CA;
     padding: 7px 10px;
     border-radius: 10px 10px 10px 0;
     margin: 10px 0;

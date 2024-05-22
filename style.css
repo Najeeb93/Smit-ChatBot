@@ -32,3 +32,13 @@ body{
     border-radius: 10px;
     position: relative;
 }
+
+.client{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height: 80px;
+    background-color: #77b3d4;
+    padding: 15px;   
+}
+

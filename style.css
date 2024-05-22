@@ -42,3 +42,34 @@ body{
     padding: 15px;   
 }
 
+.client img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+.client-info{
+    color:#fff ;
+    padding: 15px;
+}
+.client-info p{
+    color: #008000;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+.chats{
+    width: 100%;
+    padding: 0 15px;
+    color: #fff;
+    position: relative;
+    font-size: 0.9em;
+}
+
+.client-chat{
+    width: 60%;
+    word-wrap: break-word;
+    background-color: red;
+    padding: 7px 10px;
+    border-radius: 10px 10px 10px 0;
+    margin: 10px 0;
+}
